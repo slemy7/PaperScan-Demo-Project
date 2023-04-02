@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="paper_scan_screen_title">PaperScan</string>
+    <string name="paper_scan_screen_organize_label">Organize</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_ff</item>
+        <item name="colorPrimaryVariant">@color/purple_7d</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange_ff</item>
+        <item name="colorSecondaryVariant">@color/yellow_ff</item>
+        <item name="colorOnSecondary">@color/pink_ff</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="PaperScanToolbarStyle" parent="Theme.MaterialComponents.Light">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="actionMenuTextColor">@color/white</item>
+    </style>
+</resources>
